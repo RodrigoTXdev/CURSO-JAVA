@@ -1,2 +1,2 @@
 # CURSO JAVA
- iniciando o aprendizado em Java
+ Iniciando o aprendizado em Java!
